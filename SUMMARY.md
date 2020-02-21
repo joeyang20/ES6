@@ -42,7 +42,7 @@
 * [P39 39 ES6 Babel 簡介](chapter/P39.md)
 * [P40 40 ES6 中使用Polyfill](chapter/P40.md)
 * [P41 41 ES6 原型繼承回顧](chapter/P41.md)
-* [P42 42 ES6課程](chapter/P42.md)
+* [P42 42 ES6 class](chapter/P42.md)
 * [P43 43 ES6 的類的擴展](chapter/P43.md)
 * [P44 44 擴展內建對像數組](chapter/P44.md)
 * [P45 45 ES6： 遍歷器Iterator](chapter/P45.md)

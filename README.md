@@ -28,4 +28,4 @@ ES9(ES2018):18年发布，也称为ECMA2018
 ## 参考材料
 
 - 1.[ECMAScript ES6 从一脸懵逼到灵活运用](https://www.bilibili.com/video/av47304735)
-- 2.[ECMAScript、E5、ES6、ES7](https://www.bilibili.com/video/av75287210/)
+- 2.[ECMAScript、ES5、ES6、ES7](https://www.bilibili.com/video/av75287210/)
